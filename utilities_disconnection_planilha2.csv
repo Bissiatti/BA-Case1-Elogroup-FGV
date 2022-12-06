@@ -1,0 +1,17 @@
+﻿disconnection_requested;regional;cost
+circuit_break;1;12.05
+circuit_break;2;11.04
+circuit_break;3;13.67
+circuit_break;4;10.76
+pole;1;23.21
+pole;2;20.89
+pole;3;26.74
+pole;4;19.32
+branch;1;60.05
+branch;2;54.76
+branch;3;58.44
+branch;4;65.8
+remote;1;1.03
+remote;2;1.03
+remote;3;1.03
+remote;4;1.03
